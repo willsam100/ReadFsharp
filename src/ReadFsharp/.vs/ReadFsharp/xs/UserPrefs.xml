@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReadFsharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReadFsharp" expanded="True" selected="True">
+            <Node name="ReadFsharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../../Github/monodevelop/main/src/addins/MonoDevelop.Refactoring/MonoDevelop.AnalysisCore/MonoDevelopWorkspaceDiagnosticAnalyzerProviderService.cs" line="104" offsetX="844" offsetY="1185" expression="builder[0].Assemblies.IEnumerator.[0]" liveUpdate="True" />
+    <Watch file="../../../../../../../Github/monodevelop/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.TypeSystem/MonoDevelopWorkspace.ProjectSystemHandler.cs" line="172" offsetX="391" offsetY="2278" expression="proj" liveUpdate="False" />
+    <Watch file="../../../../../../../Github/monodevelop/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.Gui/Document.cs" line="93" offsetX="563" offsetY="790" expression="analysisDocument" liveUpdate="False" />
+    <Watch file="../../../../../../CsToFs/CsToFs/CsharpParser.fs" line="126" offsetX="649" offsetY="1865" expression="node.Kind()" liveUpdate="False" />
+    <Watch file="../../../../../../CsToFs/CsToFs/CsharpParser.fs" line="392" offsetX="85" offsetY="5826" expression="node" liveUpdate="False" />
+    <Watch file="../../../../../../CsToFs/CsToFs/Program.fs" line="969" offsetX="115" offsetY="14269" expression="trandformedTree" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

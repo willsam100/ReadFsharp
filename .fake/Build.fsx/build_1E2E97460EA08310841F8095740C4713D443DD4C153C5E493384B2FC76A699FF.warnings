@@ -1,0 +1,4 @@
+/Users/sam.williams/projects/ReadFsharp/build.fsx (20,7)-(20,14): Error FS0039: The value, constructor, namespace or type 'restore' is not defined. Maybe you want one of the following:
+   reset
+/Users/sam.williams/projects/ReadFsharp/build.fsx (21,7)-(21,14): Error FS0039: The value, constructor, namespace or type 'restore' is not defined. Maybe you want one of the following:
+   reset

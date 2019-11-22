@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sam.williams/projects/ReadFsharp/test/ReadFsharp.Tests/ReadFsharp.Tests.fsproj": {}
+  },
+  "projects": {
+    "/Users/sam.williams/projects/CsToFs/FSharper.Core/FSharper.Core.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sam.williams/projects/CsToFs/FSharper.Core/FSharper.Core.fsproj",
+        "projectName": "FSharper.Core",
+        "projectPath": "/Users/sam.williams/projects/CsToFs/FSharper.Core/FSharper.Core.fsproj",
+        "packagesPath": "/Users/sam.williams/.nuget/packages/",
+        "outputPath": "/Users/sam.williams/projects/CsToFs/FSharper.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sam.williams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/Users/sam.williams/.dotnet/NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Compiler.Service": {
+              "target": "Package",
+              "version": "[25.0.1, )"
+            },
+            "FSharp.Compiler.Tools": {
+              "target": "Package",
+              "version": "[10.2.1, )"
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Fantomas": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/ReadFsharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/ReadFsharp.fsproj",
+        "projectName": "ReadFsharp",
+        "projectPath": "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/ReadFsharp.fsproj",
+        "packagesPath": "/Users/sam.williams/.nuget/packages/",
+        "outputPath": "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sam.williams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "/Users/sam.williams/.dotnet/NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/sam.williams/projects/CsToFs/FSharper.Core/FSharper.Core.fsproj": {
+                "projectPath": "/Users/sam.williams/projects/CsToFs/FSharper.Core/FSharper.Core.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Giraffe": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/sam.williams/projects/ReadFsharp/test/ReadFsharp.Tests/ReadFsharp.Tests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sam.williams/projects/ReadFsharp/test/ReadFsharp.Tests/ReadFsharp.Tests.fsproj",
+        "projectName": "ReadFsharp.Tests",
+        "projectPath": "/Users/sam.williams/projects/ReadFsharp/test/ReadFsharp.Tests/ReadFsharp.Tests.fsproj",
+        "packagesPath": "/Users/sam.williams/.nuget/packages/",
+        "outputPath": "/Users/sam.williams/projects/ReadFsharp/test/ReadFsharp.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sam.williams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "/Users/sam.williams/.dotnet/NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/ReadFsharp.fsproj": {
+                "projectPath": "/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/ReadFsharp.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

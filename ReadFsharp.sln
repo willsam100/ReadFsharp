@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ReadFsharp", "src\ReadFsharp\ReadFsharp.fsproj", "{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ReadFsharp.Tests", "test\ReadFsharp.Tests\ReadFsharp.Tests.fsproj", "{F1113AE6-0510-446F-8C07-A5631A777FDC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharper.Core", "..\FShaper\FSharper.Core\FSharper.Core.fsproj", "{4758994A-3B66-4FD3-B592-957E3C3BAE7A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharper.Tests", "..\FShaper\FSharper.Tests\FSharper.Tests.fsproj", "{E28705CF-B8B7-49EF-95BA-E6D0C7A885FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AE336D-8FB4-4BD2-995E-DE6AD66BB703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1113AE6-0510-446F-8C07-A5631A777FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1113AE6-0510-446F-8C07-A5631A777FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1113AE6-0510-446F-8C07-A5631A777FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1113AE6-0510-446F-8C07-A5631A777FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4758994A-3B66-4FD3-B592-957E3C3BAE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4758994A-3B66-4FD3-B592-957E3C3BAE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4758994A-3B66-4FD3-B592-957E3C3BAE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4758994A-3B66-4FD3-B592-957E3C3BAE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

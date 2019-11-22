@@ -1,0 +1,8 @@
+/Users/sam.williams/projects/ReadFsharp/build.fsx (36,2)-(36,53): Error FS0001: This expression was expected to have type
+    'unit'    
+but here has type
+    'ProcessResult'    
+/Users/sam.williams/projects/ReadFsharp/build.fsx (36,2)-(36,53): Error FS0001: This expression was expected to have type
+    'unit'    
+but here has type
+    'ProcessResult'    

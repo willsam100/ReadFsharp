@@ -1,0 +1,16 @@
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/web.config
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/appsettings.Development.json
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/appsettings.json
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.deps.json
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.runtimeconfig.json
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.runtimeconfig.dev.json
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.dll
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.pdb
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/FSharper.Core.dll
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/bin/Release/netcoreapp2.1/rhel.7.2-x64/FSharper.Core.pdb
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.fsprojAssemblyReference.cache
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.AssemblyInfoInputs.cache
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.AssemblyInfo.fs
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.fsproj.CopyComplete
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.dll
+/Users/sam.williams/projects/ReadFsharp/src/ReadFsharp/obj/Release/netcoreapp2.1/rhel.7.2-x64/ReadFsharp.pdb

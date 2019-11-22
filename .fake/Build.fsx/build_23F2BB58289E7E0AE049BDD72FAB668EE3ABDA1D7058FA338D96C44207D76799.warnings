@@ -1,0 +1,2 @@
+/Users/sam.williams/projects/ReadFsharp/build.fsx (12,50)-(12,57): Error FS0039: The value, namespace, type or module 'install' is not defined. Maybe you want one of the following:
+   int8
