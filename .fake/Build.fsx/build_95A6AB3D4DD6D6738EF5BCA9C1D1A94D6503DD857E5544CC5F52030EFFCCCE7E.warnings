@@ -1,7 +1,0 @@
-/Users/sam.williams/projects/ReadFsharp/build.fsx (10,15)-(10,30): Error FS0039: The namespace 'TargetOperators' is not defined.
-/Users/sam.williams/projects/ReadFsharp/build.fsx (20,0)-(20,6): Error FS0039: The value, namespace, type or module 'Target' is not defined.
-/Users/sam.williams/projects/ReadFsharp/build.fsx (28,0)-(28,6): Error FS0039: The value, namespace, type or module 'Target' is not defined.
-/Users/sam.williams/projects/ReadFsharp/build.fsx (29,0)-(29,6): Error FS0039: The value, namespace, type or module 'Target' is not defined.
-/Users/sam.williams/projects/ReadFsharp/build.fsx (36,0)-(36,6): Error FS0039: The value, namespace, type or module 'Target' is not defined.
-/Users/sam.williams/projects/ReadFsharp/build.fsx (39,2)-(39,5): Error FS0043: The type 'string' does not support the operator '==>'
-/Users/sam.williams/projects/ReadFsharp/build.fsx (43,0)-(43,6): Error FS0039: The value, namespace, type or module 'Target' is not defined.
