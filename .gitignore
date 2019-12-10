@@ -3,3 +3,4 @@ test/ReadFsharp.Tests/bin
 src/ReadFsharp/obj
 src/ReadFsharp/bin
 .fake
+symbolCache.db
