@@ -20,7 +20,7 @@
     <Content Include="aws-lambda-tools-defaults.json" />
     <None Include="Readme.md" />
     <None Include="serverless.template" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.22" />
     <PackageReference Include="Giraffe" Version="3.4.0" />
     <PackageReference Include="Amazon.Lambda.AspNetCoreServer" Version="3.0.4" />
     <PackageReference Update="FSharp.Core" Version="4.6.2" />
